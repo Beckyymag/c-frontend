@@ -1,4 +1,4 @@
-# c-frontend
+# curso-frontendd
 
 
 Arquivo A | Versão 1| Versão 2
